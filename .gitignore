@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+backend/.venv/
+
+# Secrets & local config (never commit keys)
+.env
+.env.*
+!.env.example
+!.env.production.example
+
+# Frontend (Vite)
+frontend/node_modules/
+frontend/dist/
+
+# Desktop packaging artifacts (rebuilt on demand)
+installer/runtime/
+installer/output/
+installer/env/
+
+# Editor / OS junk
+.vscode/
+.obsidian/
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Logs & temp
+*.log
+*.tmp
