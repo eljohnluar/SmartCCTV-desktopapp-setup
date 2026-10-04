@@ -1,0 +1,217 @@
+{
+  "main": {
+    "id": "18340d8d7703d5c5",
+    "type": "split",
+    "children": [
+      {
+        "id": "1c07f5d6e21dd7ef",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7db653907062264f",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8fad415fce372161",
+    "type": "split",
+    "children": [
+      {
+        "id": "2330675426892ce1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cf09b4e73234bf68",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "18f6cea25f8bbf4a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "05c5ad965af405ec",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "8ad39e06d7e591d2",
+    "type": "split",
+    "children": [
+      {
+        "id": "a8027f1871ed41ce",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8a5bcf00c36d5b45",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "03ed41c14cefc2cf",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "2494287b14b3f182",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "013676e6a030eded",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "366645aa853781f8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "7db653907062264f",
+  "lastOpenFiles": [
+    "Architecture/Config.md",
+    "Architecture/Frontend.md",
+    "Architecture/Database.md",
+    "Architecture/Supabase.md",
+    "Architecture/WebSocket Manager.md",
+    "Architecture/Weapon Detection.md",
+    "Architecture/Voice Engine.md",
+    "Architecture/Trespasser Detection.md",
+    "Architecture/Students Page.md",
+    "Architecture/SmartCCTV Overview.md",
+    "Architecture/Settings Page.md",
+    "Architecture/REST API.md",
+    "Architecture/Reports Page.md",
+    "Architecture/Landing Page.md",
+    "Architecture/Gesture Detection.md",
+    "Architecture/Face Recognition.md",
+    "Architecture/Dashboard Page.md",
+    "Architecture/Credits Page.md",
+    "Architecture/Compliance Checker.md",
+    "Architecture/Camera Ingestion.md",
+    "Architecture/Auth Context.md",
+    "Architecture/App Context.md",
+    "Architecture/Alerts Page.md",
+    "Architecture/AI Engine.md",
+    "Architecture",
+    "frontend/node_modules/hasown/CHANGELOG.md",
+    "Credits Page.md",
+    "frontend/public/photos/credits_name/borres.png",
+    "Untitled.canvas"
+  ]
+}
